@@ -1,6 +1,4 @@
-Saya akan buat file `README.md` untuk project PPDB SMK Umar Mas'ud. Berikut isinya:
 
-```markdown
 # Sistem PPDB SMK Umar Mas'ud
 
 Sistem Pendaftaran Peserta Didik Baru (PPDB) Online untuk SMK Umar Mas'ud.
